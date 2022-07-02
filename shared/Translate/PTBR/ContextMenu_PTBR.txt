@@ -157,11 +157,11 @@ ContextMenu_PTBR = {
 	ContextMenu_SD_Every5Days = "A cada 5 dias",
 	ContextMenu_SD_StartImmediately = "Iniciar Imediatamente",
 	ContextMenu_SD_Never = "Nunca",
-	ContextMenu_SD_AfterDay1 = "Apos o dia 1",
-	ContextMenu_SD_AfterDay5 = "Apos o dia 5",
-	ContextMenu_SD_AfterDay10 = "Apos o dia 10",
-	ContextMenu_SD_AfterDay15 = "Apos o dia 15",
-	ContextMenu_SD_AfterDay20 = "Apos o dia 20",
+	ContextMenu_SD_AfterDay1 = "Depois do dia 1",
+	ContextMenu_SD_AfterDay5 = "Depois do dia 5",
+	ContextMenu_SD_AfterDay10 = "Depois do dia 10",
+	ContextMenu_SD_AfterDay15 = "Depois do dia 15",
+	ContextMenu_SD_AfterDay20 = "Depois do dia 20",
 	ContextMenu_SD_AfterDay25 = "Depois do dia 25",
 	ContextMenu_SD_AfterDay30 = "Depois do dia 30",
 	ContextMenu_SD_AfterDay35 = "Depois do dia 35",
@@ -253,10 +253,10 @@ ContextMenu_PTBR = {
 
 	
 	ContextMenu_SD_Resting = "Descansando ...",
-	ContextMenu_SD_NoAxeNoChopWood = "nenhum machado aqui, desistindo de cortar madeira",
+	ContextMenu_SD_NoAxeNoChopWood = "Nenhum machado aqui, desistindo de cortar madeira",
 	ContextMenu_SD_NoTrees = "Nenhuma arvore por aqui",
 
-	ContextMenu_SD_RIPSurvivor = "R.I.P meu amigo",
+	ContextMenu_SD_RIPSurvivor = "Descanse em paz meu amigo",
 	ContextMenu_SD_DoctorDone = "Novo Novamente! agora se acalme!",
 	ContextMenu_SD_DoctorSplint = "* Colocando a Tala ... *",
 	ContextMenu_SD_DoctorBandageRemove = "* Removendo Bandagem ... *",
@@ -291,11 +291,11 @@ ContextMenu_PTBR = {
 
 	ContextMenu_SD_PVPDisabled = "PVP desativado",
 	ContextMenu_SD_PVPEnabled = "PVP ativado",
-	ContextMenu_SD_PVPForced = "PVP forçado!",
+	ContextMenu_SD_PVPForced = "PVP ativação forçada!",
 
 	ContextMenu_SD_CallOver = "Chamada",
-	ContextMenu_SD_CallOverDesc = "Peça para a este sobrevivente vir falar",
-	ContextMenu_SD_OfferArmor = "Oferecer Armadura",
+	ContextMenu_SD_CallOverDesc = "Peça para a este sobrevivente vir e conversar",
+	ContextMenu_SD_OfferArmor = "Oferecer roupas",
 	ContextMenu_SD_OfferAmmoBox = "Oferecer Caixa de munição",
 	ContextMenu_SD_OfferAmmoRound = "Oferecer alguns cartuchos de Munição",
 	ContextMenu_SD_TalkOption = "Falar",
@@ -326,8 +326,8 @@ ContextMenu_PTBR = {
 	ContextMenu_SD_ToolStorageArea = "Área de Armazenamento de Ferramentas",
 	ContextMenu_SD_MedicalStorageArea = "área de Armazenamento Médicamentos",
 	ContextMenu_SD_FarmingArea = "Área de Cultivo/Lavoura",
-	ContextMenu_SD_ForageArea = "área de Forrageio",
-	ContextMenu_SD_GuardArea = "área para ficar de guarda",
+	ContextMenu_SD_ForageArea = "Área de Forrageio",
+	ContextMenu_SD_GuardArea = "Área para ficar de guarda",
 	ContextMenu_SD_SurvivorOptions = "Opções do Sobrevivente",
 
 	ContextMenu_SD_CallToArms = "Falar com Membros",
@@ -362,7 +362,7 @@ ContextMenu_PTBR = {
 	ContextMenu_SOption_WifeSpawn = "Iniciar com Esposa/Marido",
 	ContextMenu_SOption_WifeSpawnDesc = "Ira iniciar o jogo com uma esposa ou marido que ja esteja no seu grupo no inicio do jogo",
 	ContextMenu_SOption_SurvivorFriendliness = "Amizade com Sobrevivente",
-	ContextMenu_SOption_SurvivorFriendlinessDesc = "Isso define como e facil convencer um sobrevivente aleatorio a se juntar ao seu grupo. Oferecer mais presentes aumenta a chance de aceitação de convites para grupos de sobreviventes, mas a cada vez que você os incomodar com um convite, a chance de aceitação também diminui. Então, os convites de spam não sao muito bons. ",
+	ContextMenu_SOption_SurvivorFriendlinessDesc = "Isso define como e facil convencer um sobrevivente aleatorio a se juntar ao seu grupo. Oferecer mais presentes aumenta a chance de aceitação para o grupo, mas a cada vez que você os incomodar com um convite, a chance de aceitação também diminui. Então, os convites de spam não sao uma boa. ",
 	ContextMenu_SOption_InfinitAmmo = "Sobreviventes com Munição Infinita",
 	ContextMenu_SOption_InfinitAmmoDesc = "Se Ativado, os sobreviventes não precisarão de munição para usar armas e nunca ficarão sem munição. Se Desativado, os sobreviventes precisarão de munição e caixas em seu inventario para usar armas de fogo. E podem receber mais munição atraves do menu do botao direito, também tentarao encontrar munição por perto quando ficarem sem. ",
 	ContextMenu_SOption_FindWork = "Tarefas Base Automaticas de Sobreviventes",
@@ -373,7 +373,7 @@ ContextMenu_PTBR = {
 
 
 	ContextMenu_speech_DoNotTouchFood = "A comida aqui é apenas para membros. Não toque nela!",
-	ContextMenu_speech_HilltopIntro = "Ola e bem-vindos ao Hilltop! Imaginava-mos isso a muito tempo e hoje é uma realidade, então criamos essa comunidade",
+	ContextMenu_speech_HilltopIntro = "Olá e bem-vindos ao Hilltop! Imaginava-mos isso a muito tempo e hoje é uma realidade, então criamos essa comunidade",
 	ContextMenu_speech_BlockadeIntro = "Este e o Bloqueio do Nordeste. Ninguem está autorizado após o bloqueio traseiro.. Força letal sera usada se necessário",
 	ContextMenu_speech_FollowMeToHilltop = "Eu conheco um lugar seguro, siga-me se você quiser.",
 
@@ -1064,14 +1064,14 @@ ContextMenu_PTBR = {
 	ContextMenu_speech_NoWhereToHide9 = "Eles estao atras de mim!",
 	ContextMenu_speech_NoWhereToHide10 = "Eu tenho que ir a algum lugar para me esconder."
 	ContextMenu_speech_NoWhereToHide11 = "Eu preciso encontrar outro lugar."
-	ContextMenu_speech_NoWhereToHide12 = "merda, deve haver algum lugar para se esconder.",
+	ContextMenu_speech_NoWhereToHide12 = "Merda, deve haver algum lugar para se esconder.",
 	ContextMenu_speech_NoWhereToHide13 = "Para onde eu vou?",
 	ContextMenu_speech_NoWhereToHide14 = "Eu tenho que me tirar daqui, porra!",
 	ContextMenu_speech_NoWhereToHide15 = "Melhor se mover antes que uma horda me pegue.",
 	ContextMenu_speech_NoWhereToHide16 = "Poderia ter jurado que houve um lugar aqui da ultima vez.",
 	ContextMenu_speech_NoWhereToHide17 = "Onde diabos eu vou agora?",
 	ContextMenu_speech_NoWhereToHide18 = "Acho que minha sorte acabou."
-	ContextMenu_speech_NoWhereToHide19 = "merda. Poderia ter jurado que vi um zed.",
+	ContextMenu_speech_NoWhereToHide19 = "Merda. Poderia ter jurado que vi um zed.",
 	ContextMenu_speech_NoWhereToHide20 = "Porra, não ha onde se esconder.",
 	ContextMenu_speech_NoWhereToHide21 = "Acho que estou sem sorte."
 	ContextMenu_speech_NoWhereToHide22 = "Não posso deixar os zeds mastigarem minha bunda",
@@ -1122,7 +1122,7 @@ ContextMenu_PTBR = {
 	ContextMenu_speech_Scared17 = "Eu preciso sair daqui!",
 	ContextMenu_speech_Scared18 = "merda! alguém me ajude!",
 	ContextMenu_speech_Scared19 = "Fique longe de mim!",
-	ContextMenu_speech_Scared20 = "Ajude-me!",
+	ContextMenu_speech_Scared20 = "Me ajuda!!",
 
 
 	ContextMenu_speech_Screem1 = "Aaah! No nO!",
